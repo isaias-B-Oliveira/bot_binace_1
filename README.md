@@ -23,7 +23,6 @@ Configure as chaves de API das plataformas de negociação que deseja utilizar.
 Personalize as estratégias de negociação conforme necessário.
 
 
-
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests para melhorias, correções de bugs ou novas funcionalidades.
 
