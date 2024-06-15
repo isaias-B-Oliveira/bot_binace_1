@@ -1,4 +1,5 @@
 
+
 README
 
 ### Bot de Monitoramento de Compra e Venda de Criptomoedas
