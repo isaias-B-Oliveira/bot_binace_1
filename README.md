@@ -1,8 +1,5 @@
 
 
-README
-
-
 ### Bot de Monitoramento de Compra e Venda de Criptomoedas
 Este repositório contém o código-fonte de um bot em JavaScript desenvolvido para monitorar a compra e venda de criptomoedas em diversas plataformas de negociação.
 
