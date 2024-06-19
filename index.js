@@ -61,7 +61,3 @@ async function newOrder(quantity, side) {
         console.log(error);
     }
 }
-
-
-
-
