@@ -29,3 +29,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 ## Este bot é fornecido apenas para fins educacionais e de demonstração. A negociação de criptomoedas envolve riscos significativos e pode resultar em perdas financeiras. Utilize-o por sua própria conta e risco.
 
 
+
